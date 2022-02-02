@@ -1,6 +1,6 @@
 # Desenhando coração com python
 
-Script para envio de mensagens no whatsapp via python 
+Script para desenhar coração em python
 ## Instalação
 Não necessita instalar nenhuma lib pois a lib utilizada vem por padrão no python
 
